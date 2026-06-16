@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <title>Mapa BUG - JKozik</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    iframe {
+      width: 100%;
+      height: calc(100vh - 60px);
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>Zmiany koryta rzeki Bug 1940–2024</h2>
+  </header>
+  <iframe
+    src="https://arcg.is/1WTv0q3"
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
